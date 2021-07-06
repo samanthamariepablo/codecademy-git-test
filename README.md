@@ -1,2 +1,3 @@
 # codecademy-git-test
- This is my first ever local repository.
+ 
+Hello world. I'm Sam. I'm studying data science. This is my first ever local repository.
